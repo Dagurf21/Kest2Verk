@@ -12,3 +12,11 @@ What is the current BIOS version available for the motherboard? 1.60
 What features, if any, have been added to the new BIOS version? N/A
 What changes, if any, have been made to the new BIOS version to fix problems? N/A
 What are the instructions to update the new BIOS version? Vistaðu bius skjölin á usb disk, restartaðu tölfuni og ýttu á f6 og runnaðu “instant flash”
+
+3.1.2.7 Lab - Install Third-Party Software in Windows
+
+What is the default installation location for Packet Tracer?
+C:/progranfiles/Cisco packet tracer 7.3.1/ 
+
+Why does Microsoft recommend using Uninstall or change a program to remove an installed application? vegna þess að windows eyðir þá öllum tengdum skrám sem geta verið staðsettar annarstaðar.
+
