@@ -22,10 +22,11 @@ Why does Microsoft recommend using Uninstall or change a program to remove an in
 
 
 10.2.1.8 Lab - Create a Partition in Windows
-Step 4
 
 What type of File System is used on the NEW VOLUME (I:)? NTFS 
+
 How much Free Space is shown? 1.98 gb
+
 List the tabs found in the NEW VOLUME (I): Properties window? general, tools, hardwhere, shairing, security, customize, previous versions, ready boost, quota
 
 What tabs are listed in the ITE Test Document Properties window? general, deatales, preveus versions
@@ -43,6 +44,56 @@ What are the tabs in the ITE Test Document Properties window? general, security,
 When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS? security
 
 Why is there an additional Security tab in the properties window of documents stored on an NTFS volume? NTFS encryptar drifið betur en fat32
+
+
+11.1.2.10 Lab - Explore the Windows Desktop
+
+List some of the icons that are on the Desktop: recycle bin, google crome cisco packet tracer
+
+What type of information is available on the Desktop and Taskbar? klukka, dagatal, net status
+
+Name a few applications listed in the Start Menu: microsoft store, mail, office, microsoft edge
+
+What are some of the available options? unpin from start, rezise, more, uninstall
+
+What are the available options in the Taskbar settings? lock the task bar, use small task bar buttons, task bar location on screen
+
+What are the available options in the Task View settings? show cortana button, show task view button, show tuch keybord button
+
+What happened? það opnar annað instace af forritinu
+
+List some examples of system information below: your defult browser was reset, an app defult was reset
+
+What can you do in the Notification & actions Settings window? valið hvaða öpp meiga senda notifycations og velja hvar og hverng þau byrtast
+
+
+11.1.4.11 Lab - Working with File Explorer
+
+What happened with Folder1 and Folder2 on the Desktop? hún hverfur af desktopinu þegar hún færist yfir í flder1
+
+What is the file extension for the text document? .txt
+
+How would you do it? velja fileinn og copía hann, fara inn í foderinn og pastea.
+
+What are the attributes associated with this file? name, type, folder path, size, date created, date modified, atrebutes, owner, computer
+
+What is the complete path to Folder3? C:\Users\notandi\Desktop\folder1\folder2
+
+In Windows 8.x and 10, which directories are listed under Folders?
+
+What happened? Why would you want to do this? það pinnast undir quick accsess, til að komast fjlótar í möpunna
+
+What are folders listed in the Local Disk (C:)? notandi, public
+
+Were you able to open it? Explain. já, við gátum það
+
+Open the Public folder. List all the folders in the directory: Public Documents, Public Downloads, Public Music, Public Pictures, Public videos
+
+Which folders or files listed under the Libraries heading? camera roll, documents, music, pictusres, dsaved pictures, videos
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer? fara í manige library og remove með folder1 valna
+
+11.2.1.5 Lab - Explore Control Panel Categories
 
 
 
