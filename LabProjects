@@ -136,8 +136,19 @@ Which subcategory would you use to configure the computer to read aloud any text
 
 Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy? start speach recognition
 
+11.2.2.3 Lab - User Accounts
 
+What is the advantage of having most users work within a Standard user account? triggir að aðrir notendur breyti ekki mikilvægum stillingum
 
+For this lab, select Delete Files. What are the other options? When would you choose the other options? keep files, ef userinn innihelfdur verðmæt gögn sem maður vill eiga ennþá myndi maður velja að halda þeim
+
+Why is it important to protect all accounts with strong passwords? vegna þess að ef komið er upp um eitt lykilorð er hægt að komast inn í aðra usera á tölfunni og jafnvel inn á allt kerfið.
+
+Why would you create a user with Standard privileges? fyrir notanda sem ætti ekki að hafa aðgang að viðkvæmum stillingum.
+
+In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? t.d. ef einhver hættir starfi og hefur en vinnu inn á sínum user
+
+11.2.5.8 Lab - Manage Virtual Memory
 
 
 
