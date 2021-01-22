@@ -150,6 +150,37 @@ In what type of situation would an IT administrator delete a user account and ch
 
 11.2.5.8 Lab - Manage Virtual Memory
 
+What is the current size of the virtual memory (paging file)? 1920 MB
+
+What Drive [Volume Label] contains the paging file? C:
+
+What is the recommended paging file size for all drives? 1879 MB
+
+What Drive [Volume Label] contains the paging file? D:
+
+Why would you ever change the default virtual memory page file settings in Windows? t.d. ef maður vill stækka plássið sem tölfan getur notað sem virtual ram
+
+11.2.6.2 Lab - Use Device Manager
+
+What information is listed in the Device Manager window? Why would you use it? listað öllum tengdum vélbúnað og driveum. þú notar þennan glugga til að uppfæra drivera.
+
+Browse through the menus displayed at the top of the Device Manager window. Ho would you install
+driver software for an older device that may not be automatically recognized by the Windows operating system? þá væri hægt að finna tækið á netinu og finna þar nýja driverinn
+
+What additional information does Driver Details provide? driver provider, driver date, driver version, digital signer
+
+What two options do you have for updating the driver? update driver, roll back driver
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out? það eyðir núverandi driver út og installar svo síðast instalaða driver. það er stundum "grayed out" vegna þess að það getur haft skaðlegar afleiðingar
+
+What are the other available options? driver deatails, dissable device og uninstall device
+
+
+
+
+
+
+
 
 
 
