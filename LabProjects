@@ -182,5 +182,6 @@ What is the status of the service? Stopped
 
 Record the Windows Defender status: Stopped
 
+In the General tab, what is listed as the Source of the event? What is the severity level? Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON. severity = information
 
 
