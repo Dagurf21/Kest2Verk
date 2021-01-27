@@ -182,6 +182,23 @@ What is the status of the service? Stopped
 
 Record the Windows Defender status: Stopped
 
-In the General tab, what is listed as the Source of the event? What is the severity level? Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON. severity = information
+In the General tab, what is listed as the Source of the event? What is the severity level? Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON. severity level er: information
+
+In Notepad, click File > Print. Record a listed printer below: microseft print to PDF og Microsoft xps Document writer
+
+What message did you receive? How would you fix this? "befor you can preform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now?", kveikja á print spooler service-inu
+
+When DHCP Client stops, what other services will also be stopped? IP helper, Win HTTP web proxy Auto-Discovery Service og Network Location Awarness
+
+Why is it important to exercise care when managing services? þú gætir slögt á mikilvægum eiginleikum tölfunar 
+
+What is the full path name to the example file name? C:\PerfLogs\DESKTOP-4N3Q8RK_20210127-000001\DataCollector01.csv
+
+What does the column farthest to the right show? fjölda lausra megabæta
+
+
+
+
+
 
 
