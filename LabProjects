@@ -197,6 +197,32 @@ What is the full path name to the example file name? C:\PerfLogs\DESKTOP-4N3Q8RK
 What does the column farthest to the right show? fjölda lausra megabæta
 
 
+11.3.2.7 Lab - System Utilities
+
+What was the path you use to navigate to the Event Viewer? manigement tools\computer management(local)\system tools\event viewer
+
+What is the background picture? Cachedimage_1920_1080_Pos4.jpg
+
+What is the data value of the Background? 0.0.255
+
+What is the data value of the Background? 0.0.255
+
+What is the data value of the Background? 255.0.0
+
+What is the data value of the Background? 255.0.0
+
+What is the color of the desktop? blár
+
+What is the color of the desktop? rauður
+
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network? af því að þá getur þú stjornað öllum tölfunum frá einni
+
+After restarting the computer, why was the desktop color changed? af því að það checkar ekki á hvort að það hafi breyst fyrr en við restörtum
+
+
+11.3.2.8 Lab - Manage System Files
+
+
 
 
 
