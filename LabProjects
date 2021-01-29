@@ -263,7 +263,7 @@ What happens when you press enter? það sínir næstu línu
 
 How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? mkdir a; cd a; mkdir b; cd b; mkdir c 
 
-What command would you use to verify the creation of the nested directories? C:/Users/ITEUsers> tree
+What command would you use to verify the creation of the nested directories? C:\Users\ITEUsers> tree
 
 What command did you use? cls
 
@@ -272,9 +272,43 @@ What is the last command that you have used? cls
 Press up arrow to display the last command used. cls
 
 
+11.4.2.7 Lab - File System Commands
 
+What is the current directory? C:\Users\ITEUsers
 
+Which folder are you in now? C:\Users\ITEUsers\ITEfolder3
 
+What command or commands did you use to create the nested folders? md ITEfolder4; cd ITEfolder4; md ITEfolder5
+
+After issuing the cd .. command, what is your directory now? C:\Users\ITEUsers\ITEfolder3\ITEfolder4
+
+What would be the current directory if you issue this command at C:\Users\ITEUser\ITEfolder3\ITEFolder4? C:\Users\ITEUser\ITEfolder3
+
+What single command would you use to delete all the files with doc2 in the filename? del *Dock2 
+
+What command would you use to delete all the files in the directory? del *
+
+What option allows you to copy all the files and directories, including the empty directories? xcopy ..\ITEfolder1 /E
+
+Were you able to delete the directory? Explain. yebs..
+
+What are the advantages of using CLI vs. GUI? GUI kerfi eru oft hægvirkari og það er auðvelt að búa til skriptur til að flíta fyrir manni þegar maður notar CLI, það þarf minna minni fyrir CLI
+
+What is the option to fix errors on the drive? /F
+
+What is the option to force the volume to dismount first if necessary? /X
+
+What is the option to locate bad sectors and recover readable information? /R
+
+What happened? Explain. það gaf upp upplýsingar um diskinn
+
+What is the file system of the drive? NTFS
+
+Enter list partition to list all the partitions on the disk. How many partitions are on the disk?  4
+
+What option is used to determine the maximum number of bytes that the volume can be shrink by? querymax
+
+What is the maximum number of reclaimable bytes? 302MB 
 
 
 
