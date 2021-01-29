@@ -311,4 +311,21 @@ What option is used to determine the maximum number of bytes that the volume can
 What is the maximum number of reclaimable bytes? 302MB 
 
 
+11.4.4.2 Lab - Task and System CLI Commands
+
+What command would you use to display the results of tasklist one page at a time? tasklist | more 
+
+What is the option to list the modules that are associated with a task? /m
+
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll: tasklist /m. onleaut32.dll, WmiPricSE.exe, chrome.exe
+
+What command would you use to find out all the tasks that are associated with your username? error
+
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes? cpu time
+
+
+
+
+
+
 
