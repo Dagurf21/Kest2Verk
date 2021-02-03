@@ -6,342 +6,342 @@
 
 ##Which BIOS version is installed in your computer? B85 anniversary p1.60
 
-##What is the current BIOS version available for the motherboard? 1.60
+## What is the current BIOS version available for the motherboard? 1.60
 
-##What features, if any, have been added to the new BIOS version? N/A
+## What features, if any, have been added to the new BIOS version? N/A
 
-##What changes, if any, have been made to the new BIOS version to fix problems? N/A
+## What changes, if any, have been made to the new BIOS version to fix problems? N/A
 
-##What are the instructions to update the new BIOS version? Vistaðu bius skjölin á usb disk, restartaðu tölfuni og ýttu á f6 og runnaðu “instant flash”
+## What are the instructions to update the new BIOS version? Vistaðu bius skjölin á usb disk, restartaðu tölfuni og ýttu á f6 og runnaðu “instant flash”
 
 
-#3.1.2.7 Lab - Install Third-Party Software in Windows
+# 3.1.2.7 Lab - Install Third-Party Software in Windows
 
-##What is the default installation location for Packet Tracer?
+## What is the default installation location for Packet Tracer?
 
-##C:/progranfiles/Cisco packet tracer 7.3.1/ 
+## C:/progranfiles/Cisco packet tracer 7.3.1/ 
 
-##Why does Microsoft recommend using Uninstall or change a program to remove an installed application? vegna þess að windows eyðir þá öllum tengdum skrám sem geta verið staðsettar annarstaðar.
+## Why does Microsoft recommend using Uninstall or change a program to remove an installed application? vegna þess að windows eyðir þá öllum tengdum skrám sem geta verið staðsettar annarstaðar.
 
 
-#10.2.1.8 Lab - Create a Partition in Windows
+# 10.2.1.8 Lab - Create a Partition in Windows
 
-##What type of File System is used on the NEW VOLUME (I:)? NTFS 
+## What type of File System is used on the NEW VOLUME (I:)? NTFS 
 
-##How much Free Space is shown? 1.98 gb
+## How much Free Space is shown? 1.98 gb
 
-##List the tabs found in the NEW VOLUME (I): Properties window? general, tools, hardwhere, shairing, security, customize, previous versions, ready boost, quota
+## List the tabs found in the NEW VOLUME (I): Properties window? general, tools, hardwhere, shairing, security, customize, previous versions, ready boost, quota
 
-##What tabs are listed in the ITE Test Document Properties window? general, deatales, preveus versions
+## What tabs are listed in the ITE Test Document Properties window? general, deatales, preveus versions
 
-##What happens if you do not run as administrator when you open the command prompt? accsess dennied...
+## What happens if you do not run as administrator when you open the command prompt? accsess dennied...
 
-##What type of File System is used for the ITE (I:) drive? NTFS
+## What type of File System is used for the ITE (I:) drive? NTFS
 
-##What are the tabs in the ITE (I:) Properties window? general, tools, hardwhere, shairing, security, customize, previous versions, ready boost
+## What are the tabs in the ITE (I:) Properties window? general, tools, hardwhere, shairing, security, customize, previous versions, ready boost
 
-##When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS? securety og quota
+## When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS? securety og quota
 
-##What are the tabs in the ITE Test Document Properties window? general, security, deatales, previus versions
+## What are the tabs in the ITE Test Document Properties window? general, security, deatales, previus versions
 
-##When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS? security
+## When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS? security
 
-##Why is there an additional Security tab in the properties window of documents stored on an NTFS volume? NTFS encryptar drifið betur en fat32
+## Why is there an additional Security tab in the properties window of documents stored on an NTFS volume? NTFS encryptar drifið betur en fat32
 
 
-#11.1.2.10 Lab - Explore the Windows Desktop
+# 11.1.2.10 Lab - Explore the Windows Desktop
 
-##List some of the icons that are on the Desktop: recycle bin, google crome cisco packet tracer
+## List some of the icons that are on the Desktop: recycle bin, google crome cisco packet tracer
 
-##What type of information is available on the Desktop and Taskbar? klukka, dagatal, net status
+## What type of information is available on the Desktop and Taskbar? klukka, dagatal, net status
 
-##Name a few applications listed in the Start Menu: microsoft store, mail, office, microsoft edge
+## Name a few applications listed in the Start Menu: microsoft store, mail, office, microsoft edge
 
-##What are some of the available options? unpin from start, rezise, more, uninstall
+## What are some of the available options? unpin from start, rezise, more, uninstall
 
-##What are the available options in the Taskbar settings? lock the task bar, use small task bar buttons, task bar location on screen
+## What are the available options in the Taskbar settings? lock the task bar, use small task bar buttons, task bar location on screen
 
-##What are the available options in the Task View settings? show cortana button, show task view button, show tuch keybord button
+## What are the available options in the Task View settings? show cortana button, show task view button, show tuch keybord button
 
-##What happened? það opnar annað instace af forritinu
+## What happened? það opnar annað instace af forritinu
 
-##List some examples of system information below: your defult browser was reset, an app defult was reset
+## List some examples of system information below: your defult browser was reset, an app defult was reset
 
-##What can you do in the Notification & actions Settings window? valið hvaða öpp meiga senda notifycations og velja hvar og hverng þau byrtast
+## What can you do in the Notification & actions Settings window? valið hvaða öpp meiga senda notifycations og velja hvar og hverng þau byrtast
 
 
-11.1.4.11 Lab - Working with File Explorer
+# 11.1.4.11 Lab - Working with File Explorer
 
-##What happened with Folder1 and Folder2 on the Desktop? hún hverfur af desktopinu þegar hún færist yfir í flder1
+## What happened with Folder1 and Folder2 on the Desktop? hún hverfur af desktopinu þegar hún færist yfir í flder1
 
-##What is the file extension for the text document? .txt
+## What is the file extension for the text document? .txt
 
-##How would you do it? velja fileinn og copía hann, fara inn í foderinn og pastea.
+## How would you do it? velja fileinn og copía hann, fara inn í foderinn og pastea.
+ 
+## What are the attributes associated with this file? name, type, folder path, size, date created, date modified, atrebutes, owner, computer
 
-##What are the attributes associated with this file? name, type, folder path, size, date created, date modified, atrebutes, owner, computer
+## What is the complete path to Folder3? C:\Users\notandi\Desktop\folder1\folder2
+ 
+## In Windows 8.x and 10, which directories are listed under Folders?
+ 
+## What happened? Why would you want to do this? það pinnast undir quick accsess, til að komast fjlótar í möpunna
 
-##What is the complete path to Folder3? C:\Users\notandi\Desktop\folder1\folder2
+## What are folders listed in the Local Disk (C:)? notandi, public
 
-##In Windows 8.x and 10, which directories are listed under Folders?
+## Were you able to open it? Explain. já, við gátum það
 
-##What happened? Why would you want to do this? það pinnast undir quick accsess, til að komast fjlótar í möpunna
+## Open the Public folder. List all the folders in the directory: Public Documents, Public Downloads, Public Music, Public Pictures, Public videos
 
-##What are folders listed in the Local Disk (C:)? notandi, public
+## Which folders or files listed under the Libraries heading? camera roll, documents, music, pictusres, dsaved pictures, videos
 
-##Were you able to open it? Explain. já, við gátum það
+## How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer? fara í manige library og remove með folder1 valna
 
-##Open the Public folder. List all the folders in the directory: Public Documents, Public Downloads, Public Music, Public Pictures, Public videos
 
-##Which folders or files listed under the Libraries heading? camera roll, documents, music, pictusres, dsaved pictures, videos
+# 11.2.1.5 Lab - Explore Control Panel Categories
 
-##How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer? fara í manige library og remove með folder1 valna
+## What are the viewing options? catigory, large icons, small icons
 
+## Name a few of the Control Panel categories. user accounts, programs, hardwhere and sound
 
-#11.2.1.5 Lab - Explore Control Panel Categories
+## Which subcategory would help you troubleshoot common problems? troupleshoot common computer problems
 
-##What are the viewing options? catigory, large icons, small icons
+## Which subcategory allow a program through Windows Firewall? allow an app trough windows firewall
 
-##Name a few of the Control Panel categories. user accounts, programs, hardwhere and sound
+## Which subcategory allows you to view the basic network information and set up connections? view network status and tasks
 
-##Which subcategory would help you troubleshoot common problems? troupleshoot common computer problems
+## Which subcategory allows you to choose what happens when you insert a media or device? divice maniger
 
-##Which subcategory allow a program through Windows Firewall? allow an app trough windows firewall
+## Which subcategory allows you to add a printer? add divice
 
-##Which subcategory allows you to view the basic network information and set up connections? view network status and tasks
+## Which subcategory would you use to have a specific file type always open in a specified program? change defult settings for medeia or divice
 
-##Which subcategory allows you to choose what happens when you insert a media or device? divice maniger
+## Which subcategory would you use to uninstall a program? uninstall a program
 
-##Which subcategory allows you to add a printer? add divice
+## Which subcategory would you use to install the Windows telnet client? turn windows features on or off
 
-##Which subcategory would you use to have a specific file type always open in a specified program? change defult settings for medeia or divice
+## Which subcategory would you use change the account type from administrator to standard? change account type
 
-##Which subcategory would you use to uninstall a program? uninstall a program
+## Which subcategory would you use to view, edit, or remove the web and Windows credentials? remuve user accounts
 
-##Which subcategory would you use to install the Windows telnet client? turn windows features on or off
+## Which subcategory would you use to customize the Taskbar? navigation properties
+ 
+## Which subcategory would you use to show hidden files and folders? show hidden files and folders
 
-##Which subcategory would you use change the account type from administrator to standard? change account type
+## Which subcategory would you use to show extensions for known file types? show or hide file extentions
 
-##Which subcategory would you use to view, edit, or remove the web and Windows credentials? remuve user accounts
+## Which subcategory would you use to change the time zone? change the time zone
+ 
+## Which subcategory would you use to change date format? change date, time or number format
+ 
+## Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet? add clocks or different time zones/internet time
+ 
+## Which subcategory would you use to configure the computer to read aloud any text on the screen? dictation
+ 
+## Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy? start speach recognition
 
-##Which subcategory would you use to customize the Taskbar? navigation properties
 
-##Which subcategory would you use to show hidden files and folders? show hidden files and folders
+# 11.2.2.3 Lab - User Accounts
 
-##Which subcategory would you use to show extensions for known file types? show or hide file extentions
+## What is the advantage of having most users work within a Standard user account? triggir að aðrir notendur breyti ekki mikilvægum stillingum
 
-##Which subcategory would you use to change the time zone? change the time zone
+## For this lab, select Delete Files. What are the other options? When would you choose the other options? keep files, ef userinn innihelfdur verðmæt gögn sem maður vill eiga ennþá myndi maður velja að halda þeim
 
-##Which subcategory would you use to change date format? change date, time or number format
+## Why is it important to protect all accounts with strong passwords? vegna þess að ef komið er upp um eitt lykilorð er hægt að komast inn í aðra usera á tölfunni og jafnvel inn á allt kerfið.
+ 
+## Why would you create a user with Standard privileges? fyrir notanda sem ætti ekki að hafa aðgang að viðkvæmum stillingum.
+ 
+## In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? t.d. ef einhver hættir starfi og hefur en vinnu inn á sínum user
 
-##Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet? add clocks or different time zones/internet time
 
-##Which subcategory would you use to configure the computer to read aloud any text on the screen? dictation
+# 11.2.5.8 Lab - Manage Virtual Memory
 
-##Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy? start speach recognition
+## What is the current size of the virtual memory (paging file)? 1920 MB
 
+## What Drive [Volume Label] contains the paging file? C:
 
-#11.2.2.3 Lab - User Accounts
+## What is the recommended paging file size for all drives? 1879 MB
 
-##What is the advantage of having most users work within a Standard user account? triggir að aðrir notendur breyti ekki mikilvægum stillingum
+## What Drive [Volume Label] contains the paging file? D:
 
-##For this lab, select Delete Files. What are the other options? When would you choose the other options? keep files, ef userinn innihelfdur verðmæt gögn sem maður vill eiga ennþá myndi maður velja að halda þeim
+## Why would you ever change the default virtual memory page file settings in Windows? t.d. ef maður vill stækka plássið sem tölfan getur notað sem virtual ram
 
-##Why is it important to protect all accounts with strong passwords? vegna þess að ef komið er upp um eitt lykilorð er hægt að komast inn í aðra usera á tölfunni og jafnvel inn á allt kerfið.
 
-##Why would you create a user with Standard privileges? fyrir notanda sem ætti ekki að hafa aðgang að viðkvæmum stillingum.
+# 11.2.6.2 Lab - Use Device Manager
 
-##In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? t.d. ef einhver hættir starfi og hefur en vinnu inn á sínum user
+## What information is listed in the Device Manager window? Why would you use it? listað öllum tengdum vélbúnað og driveum. þú notar þennan glugga til að uppfæra drivera.
 
+## Browse through the menus displayed at the top of the Device Manager window. How would you install
+## driver software for an older device that may not be automatically recognized by the Windows operating system? þá væri hægt að finna tækið á netinu og finna þar nýja driverinn
 
-#11.2.5.8 Lab - Manage Virtual Memory
+## What additional information does Driver Details provide? driver provider, driver date, driver version, digital signer
 
-##What is the current size of the virtual memory (paging file)? 1920 MB
+## What two options do you have for updating the driver? update driver, roll back driver
 
-##What Drive [Volume Label] contains the paging file? C:
+## What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out? það eyðir núverandi driver út og installar svo síðast instalaða driver. það er stundum "grayed out" vegna þess að það getur haft skaðlegar afleiðingar
 
-##What is the recommended paging file size for all drives? 1879 MB
+## What are the other available options? driver deatails, dissable device og uninstall device
 
-##What Drive [Volume Label] contains the paging file? D:
 
-##Why would you ever change the default virtual memory page file settings in Windows? t.d. ef maður vill stækka plássið sem tölfan getur notað sem virtual ram
+# 11.3.1.11 Lab - Monitor and Manage System Resources
 
+## What is the status of the service? Stopped
 
-#11.2.6.2 Lab - Use Device Manager
+## Record the Windows Defender status: Stopped
 
-##What information is listed in the Device Manager window? Why would you use it? listað öllum tengdum vélbúnað og driveum. þú notar þennan glugga til að uppfæra drivera.
+## In the General tab, what is listed as the Source of the event? What is the severity level? Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON. severity level er: information
 
-##Browse through the menus displayed at the top of the Device Manager window. How would you install
-##driver software for an older device that may not be automatically recognized by the Windows operating system? þá væri hægt að finna tækið á netinu og finna þar nýja driverinn
+## In Notepad, click File > Print. Record a listed printer below: microseft print to PDF og Microsoft xps Document writer
 
-##What additional information does Driver Details provide? driver provider, driver date, driver version, digital signer
+# #What message did you receive? How would you fix this? "befor you can preform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now?", kveikja á print spooler service-inu
 
-##What two options do you have for updating the driver? update driver, roll back driver
+## When DHCP Client stops, what other services will also be stopped? IP helper, Win HTTP web proxy Auto-Discovery Service og Network Location Awarness
 
-##What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out? það eyðir núverandi driver út og installar svo síðast instalaða driver. það er stundum "grayed out" vegna þess að það getur haft skaðlegar afleiðingar
+## Why is it important to exercise care when managing services? þú gætir slögt á mikilvægum eiginleikum tölfunar 
 
-##What are the other available options? driver deatails, dissable device og uninstall device
+## What is the full path name to the example file name? C:\PerfLogs\DESKTOP-4N3Q8RK_20210127-000001\DataCollector01.csv
 
+## What does the column farthest to the right show? fjölda lausra megabæta
 
-#11.3.1.11 Lab - Monitor and Manage System Resources
 
-##What is the status of the service? Stopped
+ #11.3.2.7 Lab - System Utilities
 
-##Record the Windows Defender status: Stopped
+## What was the path you use to navigate to the Event Viewer? manigement tools\computer management(local)\system tools\event viewer
 
-##In the General tab, what is listed as the Source of the event? What is the severity level? Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON. severity level er: information
+## What is the background picture? Cachedimage_1920_1080_Pos4.jpg
 
-##In Notepad, click File > Print. Record a listed printer below: microseft print to PDF og Microsoft xps Document writer
+## What is the data value of the Background? 0.0.255
 
-##What message did you receive? How would you fix this? "befor you can preform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now?", kveikja á print spooler service-inu
+## What is the data value of the Background? 0.0.255
 
-##When DHCP Client stops, what other services will also be stopped? IP helper, Win HTTP web proxy Auto-Discovery Service og Network Location Awarness
+## What is the data value of the Background? 255.0.0
 
-##Why is it important to exercise care when managing services? þú gætir slögt á mikilvægum eiginleikum tölfunar 
+## What is the data value of the Background? 255.0.0
 
-##What is the full path name to the example file name? C:\PerfLogs\DESKTOP-4N3Q8RK_20210127-000001\DataCollector01.csv
+## What is the color of the desktop? blár
 
-##What does the column farthest to the right show? fjölda lausra megabæta
+## What is the color of the desktop? rauður
 
+## Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network? af því að þá getur þú stjornað öllum tölfunum frá einni
 
-#11.3.2.7 Lab - System Utilities
+## After restarting the computer, why was the desktop color changed? af því að það checkar ekki á hvort að það hafi breyst fyrr en við restörtum
 
-##What was the path you use to navigate to the Event Viewer? manigement tools\computer management(local)\system tools\event viewer
 
-##What is the background picture? Cachedimage_1920_1080_Pos4.jpg
+# 11.3.2.8 Lab - Manage System Files
 
-##What is the data value of the Background? 0.0.255
+## Processor: intel(R) Core(TM) i3-4160 CPU @ 3.60Hz, 2600Mhx, 2 core(s), 4 Logical Prosessor(s)
 
-##What is the data value of the Background? 0.0.255
+## BIOS Version/Date: American Megatrends Inc. P1.60, 12/22/2015
 
-##What is the data value of the Background? 255.0.0
+## Total Physical Memory: 7.68GB
 
-##What is the data value of the Background? 255.0.0
-
-##What is the color of the desktop? blár
-
-##What is the color of the desktop? rauður
-
-##Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network? af því að þá getur þú stjornað öllum tölfunum frá einni
-
-##After restarting the computer, why was the desktop color changed? af því að það checkar ekki á hvort að það hafi breyst fyrr en við restörtum
-
-
-#11.3.2.8 Lab - Manage System Files
-
-##Processor: intel(R) Core(TM) i3-4160 CPU @ 3.60Hz, 2600Mhx, 2 core(s), 4 Logical Prosessor(s)
-
-##BIOS Version/Date: American Megatrends Inc. P1.60, 12/22/2015
-
-##Total Physical Memory: 7.68GB
-
-##DMA channels and the device using the resources: Channel 4, Direct memory accsess controller
+## DMA channels and the device using the resources: Channel 4, Direct memory accsess controller
   
-##Adapter Description: Intel(R) HD Graphics 4400
+## Adapter Description: Intel(R) HD Graphics 4400
 
-##Adapter RAM: 1.00 GB (1,073,721,824 bytes)
+## Adapter RAM: 1.00 GB (1,073,721,824 bytes)
 
-##Under the Software Environment heading, where would you find the applications that automatically load when the computer boots? Startup programs
+## Under the Software Environment heading, where would you find the applications that automatically load when the computer boots? Startup programs
 
-##What are the startup options? normal setup, diagnostic startup og selective startup
+## What are the startup options? normal setup, diagnostic startup og selective startup
 
-##Can you enable and disable services at this tab? já
+## Can you enable and disable services at this tab? já
 
-##What can you do in this tab? keyra windows tools 
+## What can you do in this tab? keyra windows tools 
 
-##What does this tool report? kerfis upplýsingar
+## What does this tool report? kerfis upplýsingar
 
-##What information is listed on this page? device og driver information
+## What information is listed on this page? device og driver information
 
-##What information is listed on this page? device og driver information
+## What information is listed on this page? device og driver information
 
-##What information is listed on this page? derect input divices og input related divices 
+## What information is listed on this page? derect input divices og input related divices 
 
-##What information is listed on these extra tabs? nan
+## What information is listed on these extra tabs? nan
 
-##Why would it be beneficial to turn off a service in the system configuration? 
+## Why would it be beneficial to turn off a service in the system configuration? 
 
-##When would you use the startup tab of the system configuration tool?
-
-
-#11.4.1.5 Lab - Work in the Windows Command Shell
-
-##What happens when you press enter? það sínir næstu línu
-
-##How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? mkdir a; cd a; mkdir b; cd b; mkdir c 
-
-##What command would you use to verify the creation of the nested directories? C:\Users\ITEUsers> tree
-
-##What command did you use? cls
-
-##What is the last command that you have used? cls
-
-##Press up arrow to display the last command used. cls
+## When would you use the startup tab of the system configuration tool?
 
 
-#11.4.2.7 Lab - File System Commands
+# 11.4.1.5 Lab - Work in the Windows Command Shell
 
-##What is the current directory? C:\Users\ITEUsers
+## What happens when you press enter? það sínir næstu línu
 
-##Which folder are you in now? C:\Users\ITEUsers\ITEfolder3
+## How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? mkdir a; cd a; mkdir b; cd b; mkdir c 
 
-##What command or commands did you use to create the nested folders? md ITEfolder4; cd ITEfolder4; md ITEfolder5
+## What command would you use to verify the creation of the nested directories? C:\Users\ITEUsers> tree
 
-##After issuing the cd .. command, what is your directory now? C:\Users\ITEUsers\ITEfolder3\ITEfolder4
+## What command did you use? cls
+ 
+## What is the last command that you have used? cls
 
-##What would be the current directory if you issue this command at C:\Users\ITEUser\ITEfolder3\ITEFolder4? C:\Users\ITEUser\ITEfolder3
-
-##What single command would you use to delete all the files with doc2 in the filename? del *Dock2 
-
-##What command would you use to delete all the files in the directory? del *
-
-##What option allows you to copy all the files and directories, including the empty directories? xcopy ..\ITEfolder1 /E
-
-##Were you able to delete the directory? Explain. yebs..
-
-##What are the advantages of using CLI vs. GUI? GUI kerfi eru oft hægvirkari og það er auðvelt að búa til skriptur til að flíta fyrir manni þegar maður notar CLI, það þarf minna minni fyrir CLI
-
-##What is the option to fix errors on the drive? /F
-
-##What is the option to force the volume to dismount first if necessary? /X
-
-##What is the option to locate bad sectors and recover readable information? /R
-
-##What happened? Explain. það gaf upp upplýsingar um diskinn
-
-##What is the file system of the drive? NTFS
-
-##Enter list partition to list all the partitions on the disk. How many partitions are on the disk?  4
-
-##What option is used to determine the maximum number of bytes that the volume can be shrink by? querymax
-
-##What is the maximum number of reclaimable bytes? 302MB 
+## Press up arrow to display the last command used. cls
 
 
-#11.4.4.2 Lab - Task and System CLI Commands
+# 11.4.2.7 Lab - File System Commands
 
-##What command would you use to display the results of tasklist one page at a time? tasklist | more 
+## What is the current directory? C:\Users\ITEUsers
 
-##What is the option to list the modules that are associated with a task? /m
+## Which folder are you in now? C:\Users\ITEUsers\ITEfolder3
 
-##What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll: tasklist /m. onleaut32.dll, WmiPricSE.exe, chrome.exe
+## What command or commands did you use to create the nested folders? md ITEfolder4; cd ITEfolder4; md ITEfolder5
 
-##What command would you use to find out all the tasks that are associated with your username? error
+## After issuing the cd .. command, what is your directory now? C:\Users\ITEUsers\ITEfolder3\ITEfolder4
 
-##What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes? cpu time
+## What would be the current directory if you issue this command at C:\Users\ITEUser\ITEfolder3\ITEFolder4? C:\Users\ITEUser\ITEfolder3
 
-##What command would you use if you wanted to terminate all process owned by a particular user? /u
+## What single command would you use to delete all the files with doc2 in the filename? del *Dock2 
 
-##What option would you use if you only wanted to scan the integrity of all the protected system files? sfc /VERIFYONLY
+## What command would you use to delete all the files in the directory? del *
 
-##What would you add to the command so you can view the output one page at a time? | more
+## What option allows you to copy all the files and directories, including the empty directories? xcopy ..\ITEfolder1 /E
 
-##Enter the command to log off your computer. Record the command below. shutdown /l
+## Were you able to delete the directory? Explain. yebs..
 
-##Record the command below. What warning message did you see? shutdown /s /t      you're about to be signed out, windows will shut down in 2 minutes. 
+## What are the advantages of using CLI vs. GUI? GUI kerfi eru oft hægvirkari og það er auðvelt að búa til skriptur til að flíta fyrir manni þegar maður notar CLI, það þarf minna minni fyrir CLI
 
-##What command would you use to abort the shutdown? shutdown /a
+## What is the option to fix errors on the drive? /F
 
-##When does the password expire? 17 mars 2021
+## What is the option to force the volume to dismount first if necessary? /X
+
+## What is the option to locate bad sectors and recover readable information? /R
+
+## What happened? Explain. það gaf upp upplýsingar um diskinn
+
+## What is the file system of the drive? NTFS
+
+## Enter list partition to list all the partitions on the disk. How many partitions are on the disk?  4
+
+## What option is used to determine the maximum number of bytes that the volume can be shrink by? querymax
+
+## What is the maximum number of reclaimable bytes? 302MB 
+
+
+# 11.4.4.2 Lab - Task and System CLI Commands
+
+## What command would you use to display the results of tasklist one page at a time? tasklist | more 
+
+## What is the option to list the modules that are associated with a task? /m
+
+## What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll: tasklist /m. onleaut32.dll, WmiPricSE.exe, chrome.exe
+
+## What command would you use to find out all the tasks that are associated with your username? error
+
+## What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes? cpu time
+
+## What command would you use if you wanted to terminate all process owned by a particular user? /u
+
+## What option would you use if you only wanted to scan the integrity of all the protected system files? sfc /VERIFYONLY
+
+## What would you add to the command so you can view the output one page at a time? | more
+
+## Enter the command to log off your computer. Record the command below. shutdown /l
+
+## Record the command below. What warning message did you see? shutdown /s /t      you're about to be signed out, windows will shut down in 2 minutes. 
+
+## What command would you use to abort the shutdown? shutdown /a
+
+## When does the password expire? 17 mars 2021
 
 
 
